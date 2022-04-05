@@ -164,6 +164,8 @@ span.inside {
   h2 {
     width: 100%;
   }
+  .author{
+display: none;
 }
 @media screen and (max-width: 376px) {
   body {
