@@ -40,8 +40,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/ketannegi/mentor-car-preview-card-componet.git)
+- Live Site URL: [github live url](https://ketannegi.github.io/mentor-car-preview-card-componet/
+)
 
 ## My process
 
