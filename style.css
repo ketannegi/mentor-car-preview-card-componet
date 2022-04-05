@@ -39,7 +39,7 @@ div.main-content {
 }
 
 div.main-img {
-  background-image: url("/images/image-header-desktop.jpg");
+  background-image: url("./images/image-header-desktop.jpg");
   background-size: cover;
   border-radius: 0 10px 10px 0;
 
@@ -181,7 +181,7 @@ span.inside {
     font-size: 13px;
   }
   div.main-img {
-    background-image: url("/images/image-header-desktop.jpg");
+    background-image: url("./images/image-header-desktop.jpg");
     background-size: cover;
     border-radius: 10px 10px 0 0;
 
