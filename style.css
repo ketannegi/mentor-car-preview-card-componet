@@ -223,4 +223,11 @@ span.inside {
   h2 {
     width: 100%;
   }
+  .author{
+display: none;
+  }
+}
+    
+    
+    
 }
